@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="password" />
+    <string name="t_continue" />
+    <string name="dash" />
+    <string name="or" />
+    <string name="create_an_account" />
+    <string name="welcome_back" />
+    <string name="e_mail" />
+    <string name="please_log_in" />
+</resources>
